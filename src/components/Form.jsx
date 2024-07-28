@@ -1,7 +1,7 @@
 import Modal from './Modal';
 import { useState } from "react";
 import { useForm } from "react-hook-form";
-import userSchema from "../userschema/UserSchema";
+import userSchema from "../library/UserSchema"
 import { yupResolver } from "@hookform/resolvers/yup";
 
 function Form() {
