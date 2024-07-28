@@ -1,8 +1,7 @@
-# React + Vite
+# Yup + React Hook Form
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A Simple demonstration of working with react hook form library and Yup Schema Builder
 
-Currently, two official plugins are available:
+- [@react-hook-form](https://react-hook-form.com/) npm package (https://www.npmjs.com/package/react-hook-form)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- [@yup](https://github.com/jquense/yup) npm package (https://www.npmjs.com/package/yup)
