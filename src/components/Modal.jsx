@@ -13,7 +13,7 @@ const Modal = ({ isOpen, onClose, data }) => {
                 >
                     &times;
                 </button>
-                <h2 className="text-2xl font-semibold mb-4">Submitted Data</h2>
+                <h2 className="text-2xl font-semibold mb-4">Sign Up credentials</h2>
                 <pre className="text-gray-800">{JSON.stringify(data, null, 2)}</pre>
                 <button
                     onClick={onClose}
